@@ -1,0 +1,9 @@
+:root {
+    --mainColor: #22577a;
+    --secondaryColor: #38a3a5;
+    --terciaryColor: #57CC99;
+    --FALICOLOR: #80ED99;
+    --FifthCOLOR: #C7F999;
+    --white: #ffffff;
+}
+@import url(fonts.css);
